@@ -6,7 +6,7 @@ Predicting food delivery time using machine learning techniques, including featu
 
 ## 🧱 Project Workflow Architecture
 
-[alt text](Project_architecture.png)
+![alt text](Project_architecture.png)
 
 ---
 
